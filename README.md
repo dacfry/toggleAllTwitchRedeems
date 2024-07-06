@@ -1,1 +1,1 @@
-# toggleAllTwitchSounds
+# toggleAllTwitchRedeems
